@@ -1,0 +1,54 @@
+.container {
+
+    margin: 40px auto 0px 12%;
+    width: 320px;
+    border: solid white 1px;
+    padding: 30px;
+    color: white;
+    border-radius: 0px 40px 40px 0px
+}
+
+
+input {
+    width: 320px;
+    height: 35px;
+    margin: 8px 0px;
+    background-color: transparent;
+    border: 0.5px white double;
+    border-radius: 6px;
+    color: white;
+    font-size: 20px;
+}
+
+
+.btn {
+    height: 40px;
+    width: 155px;
+    color: white;
+    font-size: 20px;
+}
+
+textarea {
+    width: 320px;
+    height: 50px;
+    background-color: transparent;
+    border: 0.5px solid white;
+    border-radius: 5px;
+    color: white;
+    font-size: 20px;
+}
+
+body {
+    margin: 0px;
+    padding: 0px;
+    background-image: url(bg-img.jpeg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: left;
+    font-size: 22px;
+}
+
+span {
+    color: #dd4443;
+    font-size: 17px;
+}
